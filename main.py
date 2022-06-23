@@ -84,13 +84,7 @@ class NitroGenerator:  # Initialise the class
             print(f'\33]0;Nitro Generator and Checker - Made by Drillenissen#4268\a',
                   end='', flush=True)  # Update title of command prompt
 
-        print(""" █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗██╗██╗  ██╗
-██╔══██╗████╗  ██║██╔═══██╗████╗  ██║██║╚██╗██╔╝
-███████║██╔██╗ ██║██║   ██║██╔██╗ ██║██║ ╚███╔╝
-██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║██║ ██╔██╗
-██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║██║██╔╝ ██╗
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
-                                                        """)  # Print the title card
+        print(""" """)  # Print the title card
         time.sleep(2)
         self.slowType("Made by: DanceOfEternity && yigitsalar", .02)
         time.sleep(1)
