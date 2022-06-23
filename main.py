@@ -4,7 +4,7 @@ import os
 import discord_webhook
 import numpy
 import time
-LICNECE = """
+LICENSE = """
 MIT License
 
 Copyright (c) 2022 DanceOfEternity 
@@ -30,7 +30,7 @@ SOFTWARE.
 
 USE_WEBHOOK = True
 
-print(LICNECE)
+print(LICENSE)
 
 time.sleep(3)
 os.system('cls' if os.name == 'nt' else 'clear')
