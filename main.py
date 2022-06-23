@@ -1,4 +1,4 @@
-import ctypes
+mport ctypes
 import string
 import os
 import discord_webhook
